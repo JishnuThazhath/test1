@@ -83,7 +83,7 @@ class _HomePageState extends State<HomePage> {
         barrierDismissible: false,
         builder: (BuildContext context) {
           return AlertDialog(
-            backgroundColor: Colors.brown,
+            backgroundColor: Colors.red,
             title: Center(
               child: Text(
                 "G A M E  O V E R",
